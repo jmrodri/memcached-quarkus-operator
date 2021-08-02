@@ -1,0 +1,5 @@
+com/example/MemcachedController.class
+com/example/MemcachedSpec.class
+com/example/MemcachedQuarkusOperator.class
+com/example/Memcached.class
+com/example/MemcachedStatus.class
